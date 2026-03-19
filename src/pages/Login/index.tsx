@@ -37,12 +37,6 @@ const Login = () => {
               />
             </div>
             <Button className="mt-2 w-full">Login</Button>
-            <p className="text-center text-sm text-gray-500 dark:text-gray-400">
-              No account?{" "}
-              <a href="/register" className="text-blue-500 hover:underline">
-                Register
-              </a>
-            </p>
           </div>
         </CardContent>
       </Card>
